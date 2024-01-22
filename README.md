@@ -10,7 +10,7 @@ Hello! I'm Kinjal Chaudhari, a Computer Science student at the University of Ill
 
 About Me 📚
 
-Education: Currently studying Computer Science at UIUC, where I delve into subjects like algorithms, data structures, and software engineering.
+Education: Currently studying Computer Science at UIUC, where I delve into subjects like algorithms, data structures, software engineering, and data science.
 
 Interests: My projects span various areas of computer science, including artificial intelligence 🤖, web development 🌍, data analytics 📊, and cybersecurity 🔐.
 
